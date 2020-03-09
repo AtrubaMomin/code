@@ -1,0 +1,15 @@
+
+public class Main {
+
+    public static void main(String[] args) {
+	// write your code here
+    animal myanimal=new animal();
+    myanimal.color = "Red";
+    //myanimal.sleep();
+   // myanimal.showcolor();
+
+    lion lion=new lion();
+    lion.eat();
+    lion.sleep();
+    }
+}
