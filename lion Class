@@ -1,0 +1,18 @@
+public class lion extends animal {
+    public boolean isWild;
+    public int speed;
+
+
+
+    //behaviours
+    public void eat()
+    {
+        System.out.println("Eats Flesh , meat , etc");
+    }
+
+    public void sleeps(){
+        System.out.println("Lion Sleeps For 8 Hrs");
+
+    }
+
+}
